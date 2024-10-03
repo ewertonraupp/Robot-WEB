@@ -5,7 +5,7 @@ Resource    ../../resources/package.resource
 
 *** Keywords ***
 Logar na página Qa Coders
-    Open Browser      url=${AMBIENTE.WEB.URL}    browser=${AMBIENTE.WEB.BROWSER}
+    Open Browser      url=${AMBIENTE.WEB.URL}    browser=${AMBIENTE.WEB.BROWSER_HAEDLESS}
     Maximize Browser Window
 
     Wait Until Element Is Visible    ${usernameInput}    ${AMBIENTE.WEB.TIMEOUT}
