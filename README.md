@@ -5,7 +5,7 @@
 Este repositório contém um conjunto de testes automatizados usando o Robot Framework. O objetivo é demonstrar como configurar e executar testes automatizados para uma API ou uma aplicação WEB.
 
 ## Testes WEB Robot ##
-Este projeto tem como objetivo realizar testes de WEB com Robot, no ambiente Qa.Coders.
+Este projeto tem como objetivo realizar testes de WEB com Robot no ambiente Qa.Coders.
 
 ## Requisitos ##
 Antes de começar, certifique-se de ter os seguintes itens instalados:
@@ -42,7 +42,6 @@ robot -d ./logs <nome_arquivo.robot>
 ## Dependencias ##
 ├── .github/workflows
 │   ├── robot-framework.yml
-│   ├── log.html
 │   
 ├── fixtures
 │   ├── data.yaml
@@ -78,4 +77,4 @@ robot -d ./logs <nome_arquivo.robot>
 │   ├── listar_usuario_web.robot
 │   
 ├──.gitignore
-├── readme.md
+├── README.md
