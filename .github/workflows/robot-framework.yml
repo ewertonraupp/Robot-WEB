@@ -24,6 +24,7 @@ jobs:
         pip install Faker
         pip install robotframework-faker
         pip install PyYAML
+        pip install SeleniumLibrary
         pip install setuptools
 
     - name: Run Robot Framework tests
