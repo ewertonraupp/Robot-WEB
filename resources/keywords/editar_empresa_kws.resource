@@ -8,7 +8,7 @@ Gerar empresa
     ${companyCNPJ}     Generate Random String    length=14    chars=[NUMBERS]
     ${companyEmail}    FakerLibrary.Company Email
     ${matriz}          FakerLibrary.Company Suffix
-    ${phone}           Generate Random String    length=11     chars=[NUMBERS]
+    ${phone}           Generate Random String    length=11    chars=[NUMBERS]
     ${service}         FakerLibrary.Job
     ${responsible}     FakerLibrary.First Name
     ${zipCode}         Generate Random String    length=8     chars=[NUMBERS]
