@@ -1,5 +1,6 @@
-<img src="https://static.wixstatic.com/media/676771_ff90eb66aa924b0b88cdd4df171f3d85~mv2.png/v1/fill/w_774,h_342,al_c,lg_1,q_85/676771_ff90eb66aa924b0b88cdd4df171f3d85~mv2.png" alt="logo" width="700" style="display: block; margin-left: auto; margin-right: auto;">
-
+<p align="center">
+  <img src="https://static.wixstatic.com/media/676771_ff90eb66aa924b0b88cdd4df171f3d85~mv2.png/v1/fill/w_774,h_342,al_c,lg_1,q_85/676771_ff90eb66aa924b0b88cdd4df171f3d85~mv2.png">
+</p>
 
 
 ![STATUS](https://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
