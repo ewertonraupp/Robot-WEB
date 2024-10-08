@@ -1,4 +1,4 @@
-name: Robot Framework - WEB Tests
+name: Robot Framework - Front-End Tests
 
 on: push
 
