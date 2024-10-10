@@ -1,0 +1,7 @@
+robotframework
+robotframework-requests
+robotframework-jsonlibrary
+Faker
+robotframework-faker
+PyYAML
+setuptools

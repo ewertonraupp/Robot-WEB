@@ -11,7 +11,6 @@ Library     JSONLibrary
 Library     BuiltIn
 Library     RequestsLibrary
 Library     String
-Library     Collections
 Library     FakerLibrary    locale=pt_BR
 
 Variables    ../fixtures/data.yaml
